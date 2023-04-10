@@ -7,7 +7,7 @@ Arch Linux users sometimes encounter the following issue when attempting to laun
 This fork provides a patched AppImage that gets rid of the issue. 
 You may also need to install ```libffi7``` from the AUR to get it to work.
 
-Users have also reported that their controller's sometimes don't work, there is no fix for that yet as far as i know,
+Users have also reported that their controllers sometimes don't work, there is no fix for that yet as far as I know,
 when a fix does emerge I'll be sure to include it here. 
 
 The rest of the README is unchanged from the original.
